@@ -17,9 +17,11 @@ export default function Navbar() {
           <Link href="/contact" passHref>
             <li className="cursor-pointer hover:text-gray-300">Contact</li>
           </Link>
+          <Link href="/hireme" passHref>
           <li>
             <button className="bg-slate-300 text-black hover:bg-purple-300 px-6 py-3 rounded-2xl">Hire Me</button>
           </li>
+          </Link>
         </ul>
       </nav>
     </header>

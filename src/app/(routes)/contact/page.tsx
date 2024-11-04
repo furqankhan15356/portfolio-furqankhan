@@ -8,7 +8,7 @@ export default function Contact() {
             </div>
             
             <div className="flex justify-center mb-14">
-                <div className="p-6 sm:p-10 lg:p-12 bg-black border border-gray-300 transition-shadow duration-300 hover:shadow-[0px_0px_25px_5px_rgba(138,43,226,0.8)] max-w-lg sm:max-w-2xl lg:max-w-4xl rounded-3xl">
+                <div className="bg-purple-500 hover:bg-purple-300 px-6 sm:px-8 py-3 sm:py-4 mb-8 sm:mb-14 font-bold text-xl sm:text-2xl rounded-xl sm:rounded-2xl font-sans transition duration-200 hover:shadow-[0px_0px_25px_5px_rgba(138,43,226,0.8)]">
                     <div className="text-center">
                         <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-950 via-purple-500 to-purple-50">
                             Let s Build Something <br />
